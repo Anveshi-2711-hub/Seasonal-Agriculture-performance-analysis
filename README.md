@@ -1,6 +1,7 @@
  🌾 Seasonal Agriculture Performance Analysis
 
 📌 Project Overview
+
 This project focuses on analyzing agricultural data across different seasons to identify meaningful patterns, trends, variations, and relationships in agricultural performance.
 The analysis explores crop performance, environmental conditions, resource usage, regional differences, and economic outcomes using data analytics techniques.
 
@@ -44,9 +45,11 @@ The dataset contains information related to:
 8. Insights and Recommendations
 
  📈 Expected Outcomes
+ 
 The project provides insights into seasonal variations in agriculture and demonstrates how data analytics can be used to understand agricultural performance and support evidence-based planning.
 
  👩‍💻 Author
+ 
 Anveshi Srivastava
 B.Tech CSE (AI & ML)
 
